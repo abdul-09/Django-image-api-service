@@ -1,0 +1,9 @@
+asgiref
+autopep8
+Django
+djangorestframework
+Pillow
+pycodestyle
+pytz
+sqlparse
+toml
